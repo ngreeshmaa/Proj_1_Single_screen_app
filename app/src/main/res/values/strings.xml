@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Single_screen_app</string>
+    <string name="name">Cake Studio</string>
+    <string name="add"><u>Cake Studio, 8, Greenwoods, Vadodara, India</u></string>
+    <string name="phone">+91-8758764638</string>
+    <string name="mail">info@cakestudio.in</string>
+    <string name="time">Open from 9am-6pm</string>
+    <string name="backgroundimage">BackgroundImage</string>
+    <string name="locationimage">LocationImage</string>
+    <string name="phoneimage">PhoneImage</string>
+    <string name="mailimage">MailImage</string>
+    <string name="timeimage">TimeImage</string>
+</resources>
